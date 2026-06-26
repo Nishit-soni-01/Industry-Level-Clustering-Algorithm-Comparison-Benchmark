@@ -276,12 +276,16 @@ Comparison Dashboard
 The synthetic dataset consists of four customer segments with different densities along with randomly generated outliers.
 
 
+<img width="925" height="617" alt="Screenshot 2026-06-26 134033" src="https://github.com/user-attachments/assets/1b401087-6780-4570-a11c-c236f926d219" />
+
 
 ---
 
 ## 📈 K-Means Hyperparameter Analysis
 
 The Elbow Method and Silhouette Score are used to determine the optimal number of clusters.
+
+<img width="1282" height="647" alt="Screenshot 2026-06-26 134049" src="https://github.com/user-attachments/assets/e31ea3f9-2345-4d9e-af77-5a2f5f9b958f" />
 
 
 
@@ -292,6 +296,8 @@ The Elbow Method and Silhouette Score are used to determine the optimal number o
 Ward linkage is used to visualize hierarchical relationships between customer groups.
 
 
+<img width="1332" height="702" alt="Screenshot 2026-06-26 134103" src="https://github.com/user-attachments/assets/a9aa6f53-f7a0-4356-a23b-fb3c241fd767" />
+
 
 ---
 
@@ -299,6 +305,7 @@ Ward linkage is used to visualize hierarchical relationships between customer gr
 
 The K-Distance Graph helps estimate the optimal ε (epsilon) value.
 
+<img width="951" height="642" alt="Screenshot 2026-06-26 134116" src="https://github.com/user-attachments/assets/2845926c-75d1-4e0b-aa2a-079c47365e51" />
 
 
 ---
@@ -315,12 +322,15 @@ Noise points detected by DBSCAN are shown in **red**.
 
 
 
+<img width="1328" height="357" alt="Screenshot 2026-06-26 134130" src="https://github.com/user-attachments/assets/38ac9022-92eb-4b5c-8d6a-eb3d7ed6804b" />
+
 ---
 
 ## 📋 Performance Comparison Matrix
 
 The notebook compares all algorithms using multiple clustering evaluation metrics.
 
+<img width="990" height="205" alt="Screenshot 2026-06-26 134139" src="https://github.com/user-attachments/assets/a3dc44e1-765d-4c58-9e0d-6cd0c65dbc91" />
 
 
 ---
@@ -334,6 +344,8 @@ The evaluation dashboard compares:
 - Davies-Bouldin Index
 - Computational Latency
 
+<img width="1337" height="468" alt="Screenshot 2026-06-26 134152" src="https://github.com/user-attachments/assets/7bbc06f7-b72f-4698-91d5-e08aedca2a3a" />
+<img width="1332" height="425" alt="Screenshot 2026-06-26 134204" src="https://github.com/user-attachments/assets/864ace12-6693-40da-b356-2760b7893438" />
 
 
 ---
