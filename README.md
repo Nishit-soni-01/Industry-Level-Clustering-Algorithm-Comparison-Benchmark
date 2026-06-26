@@ -1,4 +1,5 @@
 # 📊 Industry-Level Clustering Algorithm Comparison Benchmark
+<img width="2760" height="1080" alt="clustering_benchmark_banner" src="https://github.com/user-attachments/assets/af0a2ee2-720d-4f08-8645-45399f1c5fed" />
 
 An end-to-end **Unsupervised Machine Learning** project that benchmarks three of the most widely used clustering algorithms:
 
